@@ -15,8 +15,17 @@ This Python application for plotting ANSI/IEC overcurrent protection curves requ
 pip install numpy matplotlib ipywidgets
 
 
-### **Recquirements**
+🚀 Quick Setup Guide
+Create requirements file (requirements.txt):
+
+```bash
 numpy>=1.21.6
 matplotlib>=3.5.3
 ipywidgets>=8.0.4
 jupyterlab>=3.6.0
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+

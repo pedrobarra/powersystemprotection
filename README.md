@@ -1,5 +1,7 @@
 # Overcurrent Curve Plotter - System Requirements
 
+**Fell free to contact me: pedrobarra(u know what)ufu.br**
+
 This Python application for plotting ANSI/IEC overcurrent protection curves requires the following components:
 
 ## 📋 Core Requirements
